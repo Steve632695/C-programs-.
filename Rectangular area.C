@@ -1,6 +1,7 @@
 //program to find the area of rectangle.
 // the user is required to input the length and width of the rectangle.
-
+//Name: Stephen Mambo 
+//ADM No.D33-2421-2023.
 #include<stdio.h>
 int main() {
   int length=0;
