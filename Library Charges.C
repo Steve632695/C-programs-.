@@ -23,5 +23,5 @@ int main()
      else 
        { fine = number_of_books * 100;}
     printf("The overdue fine is: %d \n", fine);//output fine according to number of overdue days
-    return 0;
+  return 0;
 }
